@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\CurrencyTracking\bin\Debug\CurrencyTracking.exe.config
+C:\Users\Admin\source\repos\CurrencyTracking\bin\Debug\CurrencyTracking.exe
+C:\Users\Admin\source\repos\CurrencyTracking\bin\Debug\CurrencyTracking.pdb
+C:\Users\Admin\source\repos\CurrencyTracking\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\CurrencyTracking\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\CurrencyTracking\obj\Debug\CurrencyTracking.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CurrencyTracking\obj\Debug\CurrencyTracking.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\CurrencyTracking\obj\Debug\CurrencyTracking.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CurrencyTracking\obj\Debug\CurrencyTracking.csproj.CopyComplete
+C:\Users\Admin\source\repos\CurrencyTracking\obj\Debug\CurrencyTracking.exe
+C:\Users\Admin\source\repos\CurrencyTracking\obj\Debug\CurrencyTracking.pdb
